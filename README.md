@@ -1,2 +1,2 @@
 # rest-client-application
-Rest Client Application
+Spring boot Rest-Client-Application
